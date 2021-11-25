@@ -1,0 +1,1 @@
+from vector.vectorclass import Vector
