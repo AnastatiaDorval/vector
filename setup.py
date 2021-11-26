@@ -9,7 +9,7 @@ setup (
     author = 'Anastatia Dorval',
     author_email = 'anastatiad013@gmail.com',
     url = 'https://github.com/AnastatiaDorval/vector.git',
-    download_url = 'https://github.com/AnastatiaDorval/vector/archive/refs/tags/v0.1.tar.gz',
+    download_url = 'https://github.com/AnastatiaDorval/vector/archive/refs/tags/v0.2.tar.gz',
     keywords = ['vector', 'magnitude', 'python'],
     install_requires = [
         ],

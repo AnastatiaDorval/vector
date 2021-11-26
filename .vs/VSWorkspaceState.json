@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dist",
     "\\vector"
   ],
+  "SelectedNode": "\\vector\\vectorclass.py",
   "PreviewInSolutionExplorer": false
 }
